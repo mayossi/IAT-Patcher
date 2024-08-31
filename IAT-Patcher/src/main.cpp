@@ -1,3 +1,8 @@
+// Checkout the newer version of the IATPatcher in CommonLib
+// https://github.com/mayossi/CommonLib/tree/main/src/Windows/Hook/IATHookInstaller
+
+
+
 #include <Windows.h>
 
 #include "IATPatcher.h"
