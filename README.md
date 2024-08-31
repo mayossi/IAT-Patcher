@@ -1,5 +1,11 @@
 # IAT-Patcher
 
+> [!NOTE]  
+> This code is outdated.
+> A newer, better and nicer looking version now exists in CommonLib.
+> Check it our [HERE](https://github.com/mayossi/CommonLib/tree/main/src/Windows/Hook/IATHookInstaller)
+
+
 [//]: # (This may be the ugliest README file you have ever seen. I hate markdown.)
 
 
